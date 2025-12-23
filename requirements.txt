@@ -1,6 +1,6 @@
 streamlit
 requests
 python-dotenv
-google-generativeai
-serpapi
+google-search-results>=2.0.0
+serpapi>=1.0.0
 groq
